@@ -38,4 +38,4 @@ thomaspluck95@proton.me
 
 ---
 
-☕ *Commandeering Neuro-Silicon with nothing but spite and Python.* 🦜
+🏴‍☠️ *Commandeering Neuro-Silicon with nothing but spite and Python.* 🦜
