@@ -1,6 +1,6 @@
 # Thomas Pluck
  
-⚡ Analog EDA specialist · 🧠 Neuromorphic Computing Researcher · 🛠️ Open-source Sili-Con Advocate · 🥸 Moustachio'd
+⚡ Analog EDA specialist · 🧠 Neuromorphic Computing Researcher · 🛠️ Open-source Sili-Con Advocate
 
 I build tools for people who design circuits but don't have a quarter-million-dollar Cadence license. I also think about how to make hardware that learns, mostly involving spin dynamics and stochastic networks.
 
@@ -18,8 +18,6 @@ Open-source EDA tooling, analog layout automation, and the general problem of ma
 
 ### 🎓 Background
 
-Edu-ma-cation:
-
 📐 BSc Mathematics — The Open University  
 🤖 MSc Robotics & Embedded AI — Maynooth University  
 📜 Thesis: *Thermal Physical Learning in Sparse Networks*
@@ -27,8 +25,6 @@ Edu-ma-cation:
 Currently contracting at [GDSFactory](https://github.com/gdsfactory), building open-source photonic and electronic design tools. 🌊
 
 ### 🎯 On the lookout for PhDs if ya got any
-
-Will trade righteous indignation for PhD supervision. 🤝
 
 Neuromorphic computing, spintronic devices, physical learning, analog compute — if you've got a position and don't mind someone without the traditional pedigree, I'm your guy. Hit me up. 👇
 
@@ -38,4 +34,4 @@ thomaspluck95@proton.me
 
 ---
 
-🏴‍☠️ *Commandeering Neuro-Silicon with nothing but spite and Python.* 🦜
+🏴‍☠️ *Boldly going forward (because we can't find reverse).* 🦜
