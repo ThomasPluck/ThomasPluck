@@ -1,6 +1,6 @@
 # Thomas Pluck
  
-⚡ Analog EDA specialist · 🧠 Neuromorphic Computing Researcher · 🛠️ Open-source Sili-Con Advocate · 🥸 Moustachio'd Irreverance-Maxxer
+⚡ Analog EDA specialist · 🧠 Neuromorphic Computing Researcher · 🛠️ Open-source Sili-Con Advocate · 🥸 Moustachio'd
 
 I build tools for people who design circuits but don't have a quarter-million-dollar Cadence license. I also think about how to make hardware that learns, mostly involving spin dynamics and stochastic networks.
 
