@@ -8,7 +8,7 @@ I build tools for people who design circuits but don't have a quarter-million-do
 
 ### 🔧 What I'm working on
 
-**[One-For-All (OFA)](https://github.com/ThomasPluck/one-for-all)** — A parametric layout editor for analog IC design, built as a VSCode extension. OFA eliminates the schematic-layout divide by letting you think about physical design without pushing raw polygons. Source-available under [The OFA License](https://github.com/ThomasPluck/one-for-all/blob/main/LICENSE.md). 🏗️
+💥 **[One-For-All (OFA)](https://github.com/ThomasPluck/one-for-all)** 👊 — A parametric layout editor for analog IC design, built as a VSCode extension. OFA eliminates the schematic-layout divide by letting you think about physical design without pushing raw polygons. 🏗️
 
 ### 🤔 What I'm interested in
 
