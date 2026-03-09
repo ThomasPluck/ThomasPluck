@@ -5,7 +5,7 @@
 
 ### 🔧 What I'm working on
 
-💥 **[One-For-All (OFA)](https://github.com/ThomasPluck/one-for-all)** 👊 — A parametric layout editor for analog IC design, built as a VSCode extension. OFA eliminates the schematic-layout divide by letting you think about physical design without pushing raw polygons. 🏗️
+Real-Time Extensions of my Thermal Physical Learning in Sparse Networks concept from my Master's Thesis.
 
 ### 🤔 What I'm interested in
 
