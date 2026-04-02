@@ -5,7 +5,7 @@
 
 ### 🔧 What I'm working on
 
-Real-Time Extensions of my Thermal Physical Learning in Sparse Networks concept from my Master's Thesis.
+Auto-researching an interconnect-minimizing neuromorphic concept from my master's thesis and building the "Interactive Vibing Environment" to help us simple humans parse 100,000s of AI slop with graphs.
 
 ### 🤔 What I'm interested in
 
